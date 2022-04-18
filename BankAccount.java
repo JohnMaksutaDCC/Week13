@@ -10,6 +10,7 @@ package base;
  * TimeDepositAccount--demonstrates inheritance. Keeps track of a bank account.
  * 
  * @author Scot Drysdale on 4/23/00. Modified 1/8/12
+ * John Maksuta
  */
 public class BankAccount {
 	private double balance; // Hold the amount in the account
